@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\Github\\Horizon\\Horizon.csproj": {}
+    "I:\\Github\\Horizon\\Horizon\\Horizon.csproj": {}
   },
   "projects": {
-    "I:\\Github\\Horizon\\Horizon.csproj": {
+    "I:\\Github\\Horizon\\Horizon\\Horizon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\Github\\Horizon\\Horizon.csproj",
+        "projectUniqueName": "I:\\Github\\Horizon\\Horizon\\Horizon.csproj",
         "projectName": "Horizon",
-        "projectPath": "I:\\Github\\Horizon\\Horizon.csproj",
+        "projectPath": "I:\\Github\\Horizon\\Horizon\\Horizon.csproj",
         "packagesPath": "C:\\Users\\creep\\.nuget\\packages\\",
-        "outputPath": "I:\\Github\\Horizon\\obj\\",
+        "outputPath": "I:\\Github\\Horizon\\Horizon\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JFNhhA7df6Q=",
+  "dgSpecHash": "R7fJSIYM/zc=",
   "success": true,
-  "projectFilePath": "I:\\Github\\Horizon\\Horizon.csproj",
+  "projectFilePath": "I:\\Github\\Horizon\\Horizon\\Horizon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\creep\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\creep\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

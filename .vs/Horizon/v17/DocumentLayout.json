@@ -1,12 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "I:\\Github\\Horizon\\",
-  "Documents": [],
+  "WorkspaceRootPath": "I:\\Github\\Horizon\\Horizon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE7307E-1E2F-4F59-A5AE-CDB8F413228D}|Horizon.csproj|i:\\github\\horizon\\horizon\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6FE7307E-1E2F-4F59-A5AE-CDB8F413228D}|Horizon.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE7307E-1E2F-4F59-A5AE-CDB8F413228D}|Horizon.csproj|i:\\github\\horizon\\horizon\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE7307E-1E2F-4F59-A5AE-CDB8F413228D}|Horizon.csproj|solutionrelative:mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE7307E-1E2F-4F59-A5AE-CDB8F413228D}|Horizon.csproj|i:\\github\\horizon\\horizon\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE7307E-1E2F-4F59-A5AE-CDB8F413228D}|Horizon.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "I:\\Github\\Horizon\\Horizon\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "MainPageViewModel.cs",
+              "ToolTip": "I:\\Github\\Horizon\\Horizon\\MainPageViewModel.cs",
+              "RelativeToolTip": "MainPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:42:17.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "I:\\Github\\Horizon\\Horizon\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "I:\\Github\\Horizon\\Horizon\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-06T12:37:41.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "I:\\Github\\Horizon\\Horizon\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "I:\\Github\\Horizon\\Horizon\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:37:27.846Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
